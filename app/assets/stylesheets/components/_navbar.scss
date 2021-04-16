@@ -1,0 +1,12 @@
+.navbar {
+  justify-content: space-between;
+  background: rgb(235,235,235);
+}
+
+.navbar .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-lewagon .navbar-brand img {
+  width: 40px;
+}
